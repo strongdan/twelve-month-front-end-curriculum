@@ -27,8 +27,8 @@
 - [ ] Read [Jon Duckett's JavaScript & jQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/)
 - [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
 
-## Month 2
 
+## Month 2
 ### Week 5 - May 10-16 - Break Week
 
 ### Week 6 - May 17-23 - More JavaScript Projects
@@ -49,8 +49,8 @@
 - [ ] Read [Jon Duckett's JavaScript & jQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/)
 - [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
 
-## Month 3
 
+## Month 3
 ### Week 9 - June 7-13 - More Promises
 - [ ] EdX [Asynchronous Programming with JS - Promises](https://courses.edx.org/courses/course-v1:Microsoft+DEV234x+1T2018a/course/)
 - [ ] Udacity [Asynchronous JavaScript Requests](https://www.udacity.com/course/asynchronous-javascript-requests--ud109)
@@ -75,8 +75,8 @@
 - [ ] Read [Eloquent JavaScript](https://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/)
 - [ ] Work on [Exercism JavaScript](http://exercism.io/)
 
-## Month 4
 
+## Month 4
 ### Week 13 - July 5-11 - Offline Web Apps
 - [ ] Odin Project [JavaScript Basics](https://www.theodinproject.com/courses/web-development-101)
 - [ ] Udacity [ES6](https://www.udacity.com/course/es6-javascript-improved--ud356)
@@ -101,8 +101,8 @@
 - [ ] Read John Resig's [Secrets of a JavaScript Ninja](https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/)
 - [ ] Work on [Code Wars](https://www.codewars.com/)
 
-## Month 5
 
+## Month 5
 ### Week 16 - August 2-8 - JavaScript and the DOM
 - [ ] Khan Academy [jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
 - [ ] Udacity [JavaScript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
@@ -125,4 +125,37 @@
 - [ ] Khan Academy [jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
 - [ ] Udacity [JavaScript Testing](https://classroom.udacity.com/courses/ud015)
 - [ ] Read John Resig's [Secrets of a JavaScript Ninja](https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/)
+- [ ] Work on [Code Wars](https://www.codewars.com/)
+
+## Month 6
+### Week 20 - August 30-September 5 - Object-oriented JavaScript
+- [ ] Udacity [Networking for Web Devs](https://classroom.udacity.com/courses/ud256)
+- [ ] Udacity [Client-server Communication](https://www.udacity.com/course/client-server-communication--ud897)
+- [ ] Udacity [Object-oriented JavaScript](https://classroom.udacity.com/courses/ud015)
+- [ ] Read [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
+- [ ] Work on [Code Wars](https://www.codewars.com/)
+
+### Week 21 - September 6-12 - More Object-oriented JavaScript
+- [ ] Udacity [Client-server Communication](https://www.udacity.com/course/client-server-communication--ud897)
+- [ ] Udacity [Object-oriented JavaScript](https://classroom.udacity.com/courses/ud015)
+- [ ] Read [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
+- [ ] Work on [Code Wars](https://www.codewars.com/)
+
+### Week 22 - September 13-19 - JavaScript Design Patterns
+- [ ] Udacity [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
+- [ ] Udacity [JavaScript Design Patterns](https://classroom.udacity.com/courses/ud989)
+- [ ] Read [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
+- [ ] Work on [Code Wars](https://www.codewars.com/)
+
+### Week 23 - September 20-26 - Browser Rendering Optimization
+- [ ] Udacity [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
+- [ ] Udacity [JavaScript Design Patterns](https://classroom.udacity.com/courses/ud989)
+- [ ] Read [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
+- [ ] Work on [Code Wars](https://www.codewars.com/)
+
+## Month 7
+### Week 24 - September 27-October 3 - Intermediate Projects
+- [ ] Codecademy [Code Year Projects](https://www.codecademy.com/en/tracks/code-year)
+- [ ] Udacity [JavaScript Design Patterns](https://classroom.udacity.com/courses/ud989)
+- [ ] Read [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
 - [ ] Work on [Code Wars](https://www.codewars.com/)
