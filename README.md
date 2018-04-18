@@ -2,10 +2,9 @@
 
 This is my personalized (for me) 52-week schedule to gain expertise with front-end JavaScript and some front-end frameworks like Angular, React and Bootstrap. The first half of this schedule relies heavily on the Udacity [Mobile Web Specialist Nanodegree Program](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024), but includes additional coursework to improve basic JavaScript knowledge. The second half of the program includes a lot of projects, front-end frameworks, the development process, technical interview preparation and practice working with web APIs. Each week there is a course covering web development, one covering JavaScript, a book to review key concepts and coding practice using Free Code Camp, Exercism or Code Wars. 
 
-## Month One - JavaScript and Web Design Review
+## Month One - JavaScript and Web Fundamentals
 ### Week 1 - April 12-18 - Web Development Introduction
 - [ ] [Lynda JavaScript Essential Training](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html) 
-- [ ] [Udacity Responsive Web Design Fundamentals](https://classroom.udacity.com/courses/ud893)
 - [ ] Read [Jon Duckett's HTML & CSS](https://www.amazon.com/dp/1118008189)
 - [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
 
@@ -18,13 +17,14 @@ This is my personalized (for me) 52-week schedule to gain expertise with front-e
 
 ### Week 3 - April 26-May 2 - Enough JavaScript to be Dangerous
 - [ ] Michael Hartl's [Learn Enough JavaScript...](https://www.learnenough.com/javascript-tutorial) 
-- [ ] [Udacity Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
+- [ ] [Udacity Responsive Web Design Fundamentals](https://classroom.udacity.com/courses/ud893)
 - [ ] Michael Hartl's [Learn Enough CSS & Layout...](https://www.learnenough.com/css-and-layout-tutorial)
 - [ ] Read [Jon Duckett's JavaScript & jQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/)
 - [ ] Work on [Code Wars](https://www.codewars.com/)
 
 ### Week 4 - May 3-9 - Enough JavaScript to be Dangerous, Part 2
 - [ ] Michael Hartl's [Learn Enough JavaScript...](https://www.learnenough.com/javascript-tutorial) 
+- [ ] [Udacity Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
 - [ ] [Udacity Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 - [ ] Read [Jon Duckett's JavaScript & jQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/)
 - [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
@@ -35,6 +35,7 @@ This is my personalized (for me) 52-week schedule to gain expertise with front-e
 
 ### Week 6 - May 17-23 - More JavaScript Projects
 - [ ] Start Restaurant Reviews App
+- [ ] [Udacity Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 - [ ] [Khan Academy JavaScript](https://www.khanacademy.org/computing/computer-programming/programming)
 - [ ] Read [Jon Duckett's JavaScript & jQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/)
 - [ ] Work on [Exercism JavaScript](http://exercism.io/)
