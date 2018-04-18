@@ -1,5 +1,7 @@
 # Twelve Month Plan to Learn Front-end Web Development
 
+This is my personalized weekly schedule to gain expertise with front-end JavaScript and some front-end frameworks like Angular, React and Bootstrap. This schedule relies heavily on the Udacity [Mobile Web Specialist Nanodegree Program], but includes additional coursework to improve basic JavaScript knowledge. Each week there is a web development course, a JavaScript course, a book for reading and coding practice using Free Code Camp, Exercism or Code Wars. 
+
 ## Month One 
 ### Week 1 - April 12-18 - Web Development Introduction
 - [ ] [Lynda JavaScript Essential Training](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html) 
