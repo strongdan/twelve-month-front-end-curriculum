@@ -111,14 +111,14 @@ This is my personalized (for me) 52-week schedule to gain expertise with front-e
 - [ ] Khan Academy [jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
 - [ ] Udacity [JavaScript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
 - [ ] Read John Resig's [Secrets of a JavaScript Ninja](https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/)
-- [ ] Work on [Code Wars](https://www.codewars.com/)
+- [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
 
 ### Week 17 - August 9-15 - jQuery
 - [ ] Restaurant Reviews App, Part 2
 - [ ] Khan Academy [jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
 - [ ] Udacity [JavaScript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
 - [ ] Read John Resig's [Secrets of a JavaScript Ninja](https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/)
-- [ ] Work on [Code Wars](https://www.codewars.com/)
+- [ ] Work on [Exercism JavaScript](http://exercism.io/)
 
 ### Week 18 - August 16-22 - More jQuery
 - [ ] Restaurant Reviews App, Part 2
@@ -132,7 +132,7 @@ This is my personalized (for me) 52-week schedule to gain expertise with front-e
 - [ ] Khan Academy [jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
 - [ ] Udacity [JavaScript Testing](https://classroom.udacity.com/courses/ud015)
 - [ ] Read John Resig's [Secrets of a JavaScript Ninja](https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/)
-- [ ] Work on [Code Wars](https://www.codewars.com/)
+- [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
 
 ## Month 6 - Object-Oriented JavaScript and JavaScript Design Patterns
 ### Week 20 - August 30-September 5 - Object-oriented JavaScript
@@ -140,7 +140,7 @@ This is my personalized (for me) 52-week schedule to gain expertise with front-e
 - [ ] Udacity [Client-server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 - [ ] Udacity [Object-oriented JavaScript](https://classroom.udacity.com/courses/ud015)
 - [ ] Read [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
-- [ ] Work on [Code Wars](https://www.codewars.com/)
+- [ ] Work on [Exercism JavaScript](http://exercism.io/)
 
 ### Week 21 - September 6-12 - More Object-oriented JavaScript
 - [ ] Udacity [Client-server Communication](https://www.udacity.com/course/client-server-communication--ud897)
@@ -152,13 +152,13 @@ This is my personalized (for me) 52-week schedule to gain expertise with front-e
 - [ ] Udacity [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 - [ ] Udacity [JavaScript Design Patterns](https://classroom.udacity.com/courses/ud989)
 - [ ] Read [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
-- [ ] Work on [Code Wars](https://www.codewars.com/)
+- [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
 
 ### Week 23 - September 20-26 - Browser Rendering Optimization
 - [ ] Udacity [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 - [ ] Udacity [JavaScript Design Patterns](https://classroom.udacity.com/courses/ud989)
 - [ ] Read [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
-- [ ] Work on [Code Wars](https://www.codewars.com/)
+- [ ] Work on [Exercism JavaScript](http://exercism.io/)
 
 ## Month 7 - Intermediate Project
 ### Week 24 - September 27-October 3 - Intermediate Project
@@ -169,12 +169,12 @@ This is my personalized (for me) 52-week schedule to gain expertise with front-e
 ### Week 25 - October 4-10 - Intermediate Projects
 - [ ] Restaurant Reviews App, Part 3
 - [ ] Read [Programming JavaScript Apps](https://ericelliottjs.com/product/programming-javascript-applications-ebook/)
-- [ ] Work on [Code Wars](https://www.codewars.com/)
+- [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
 
 ### Week 26 - October 11-17 - Intermediate Project
 - [ ] Restaurant Reviews App, Part 3
 - [ ] Read [Programming JavaScript Apps](https://ericelliottjs.com/product/programming-javascript-applications-ebook/)
-- [ ] Work on [Code Wars](https://www.codewars.com/)
+- [ ] Work on [Exercism JavaScript](http://exercism.io/)
 
 ### Week 27 - October 18-24 - Intermediate Project Due on Oct 24!
 - [ ] Restaurant Reviews App, Part 3 Due
@@ -186,4 +186,4 @@ This is my personalized (for me) 52-week schedule to gain expertise with front-e
 - [ ] Codecademy Build Front-End Web Applications from Scratch
 - [ ] Udacity []()
 - [ ] Read [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
-- [ ] Work on [Code Wars](https://www.codewars.com/)
+- [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
