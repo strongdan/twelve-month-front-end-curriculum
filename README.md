@@ -7,16 +7,17 @@
 - [ ] Read [Jon Duckett's HTML & CSS](https://www.amazon.com/dp/1118008189)
 - [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
 
-
 ### Week 2 - Beginner JavaScript Projects
 - [ ] Lighthouse Labs [JavaScript Essentials](https://lighthouse-labs.thinkific.com/courses/javascript/) 
 - [ ] [Udacity Responsive Web Design Fundamentals](https://classroom.udacity.com/courses/ud893)
+- [ ] Michael Hartl's [Learn Enough CSS & Layout...](https://www.learnenough.com/css-and-layout-tutorial)
 - [ ] Read [Jon Duckett's HTML & CSS](https://www.amazon.com/dp/1118008189)
 - [ ] Work on [Exercism JavaScript](http://exercism.io/)
 
 ### Week 3 - Enough JavaScript to be Dangerous
 - [ ] Michael Hartl's [Learn Enough JavaScript...](https://www.learnenough.com/javascript-tutorial) 
 - [ ] [Udacity Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
+- [ ] Michael Hartl's [Learn Enough CSS & Layout...](https://www.learnenough.com/css-and-layout-tutorial)
 - [ ] Read [Jon Duckett's JavaScript & jQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/)
 - [ ] Work on [Code Wars](https://www.codewars.com/)
 
@@ -25,6 +26,8 @@
 - [ ] [Udacity Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 - [ ] Read [Jon Duckett's JavaScript & jQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/)
 - [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
+
+## Month 2
 
 ### Week 5 - More JavaScript Projects
 - [ ] Codecademy [Code Year Project](https://www.codecademy.com/en/tracks/code-year) 
@@ -45,6 +48,8 @@
 - [ ] Udacity [Promises](https://classroom.udacity.com/courses/ud898)
 - [ ] Read [Jon Duckett's JavaScript & jQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/)
 - [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
+
+## Month 3
 
 ### Week 9 - More Promises
 - [ ] EdX [Asynchronous Programming with JS - Promises](https://courses.edx.org/courses/course-v1:Microsoft+DEV234x+1T2018a/course/)
@@ -70,6 +75,8 @@
 - [ ] Read [Eloquent JavaScript](https://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/)
 - [ ] Work on [Exercism JavaScript](http://exercism.io/)
 
+## Month 4
+
 ### Week 13 - Offline Web Apps
 - [ ] Odin Project [JavaScript Basics](https://www.theodinproject.com/courses/web-development-101)
 - [ ] Udacity [ES6](https://www.udacity.com/course/es6-javascript-improved--ud356)
@@ -79,6 +86,20 @@
 ### Week 14 - Offline Web Apps Continued
 - [ ] Viking Prep [JavaScript](https://www.vikingcodeschool.com/dashboard)
 - [ ] Udacity [Offline Web Apps](https://www.udacity.com/course/offline-web-applications--ud899)
+- [ ] Read [Practical JavaScript](https://watchandcode.com/p/practical-javascript)
+- [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
+
+### Week 15 - Web Tooling and Automation
+- [ ] Viking Prep [JavaScript](https://www.vikingcodeschool.com/dashboard)
+- [ ] Udacity [Web Tooling and Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
+- [ ] Read [Practical JavaScript](https://watchandcode.com/p/practical-javascript)
+- [ ] Work on [Exercism JavaScript](http://exercism.io/)
+
+### Week 16 - Web Tooling and Automation Continued
+- [ ] Viking Prep [JavaScript](https://www.vikingcodeschool.com/dashboard)
+- [ ] Udacity [Web Tooling and Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 - [ ] Read [Eloquent JavaScript](https://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/)
 - [ ] Work on [Code Wars](https://www.codewars.com/)
+
+## Month 5
 
