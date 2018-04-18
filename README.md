@@ -87,7 +87,7 @@ This is my personalized 52-week schedule to gain expertise with front-end JavaSc
 - [ ] Work on [Code Wars](https://www.codewars.com/)
 
 ### Week 14 - July 12-18 - Offline Web Apps Continued
-- [ ] Viking Prep [JavaScript](https://www.vikingcodeschool.com/dashboard)
+- [ ] Odin Project [JavaScript Basics](https://www.theodinproject.com/courses/web-development-101)
 - [ ] Udacity [Offline Web Apps](https://www.udacity.com/course/offline-web-applications--ud899)
 - [ ] Read [Practical JavaScript](https://watchandcode.com/p/practical-javascript)
 - [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
@@ -124,14 +124,14 @@ This is my personalized 52-week schedule to gain expertise with front-end JavaSc
 - [ ] Restaurant Reviews App, Part 2
 - [ ] Khan Academy [jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
 - [ ] Udacity [JavaScript Testing](https://classroom.udacity.com/courses/ud015)
-- [ ] Read John Resig's [Secrets of a JavaScript Ninja](https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/)
+- [ ] Read JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do)
 - [ ] Work on [Code Wars](https://www.codewars.com/)
 
 ### Week 19 - August 23-29 - Testing
 - [ ] Restaurant Reviews App, Part 2
 - [ ] Khan Academy [jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
 - [ ] Udacity [JavaScript Testing](https://classroom.udacity.com/courses/ud015)
-- [ ] Read John Resig's [Secrets of a JavaScript Ninja](https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/)
+- [ ] Read JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do)
 - [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
 
 ## Month 6 - Object-Oriented JavaScript and JavaScript Design Patterns
