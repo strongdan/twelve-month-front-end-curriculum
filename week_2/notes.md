@@ -1,7 +1,5 @@
 ## Things remaining to do:
-- finish stretch goals for Lighthouse Labs assignment chat app by:
-  1. Adding list of messages
-  2. Deploy to Heroku
+- finish stretch goals for Lighthouse Labs assignment chat app by (1) Adding list of messages and (2) Deploying to Heroku
   
 ### List of Messages
 It would be nice to see the message history on the server anytime you join the chat room. Unfortunately, we don't keep/store a message history on the server at all.
