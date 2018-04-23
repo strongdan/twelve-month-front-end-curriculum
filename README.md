@@ -4,14 +4,14 @@ This is my personalized 52-week schedule to gain expertise with front-end JavaSc
 
 ## Month One - JavaScript and Web Fundamentals
 ### Week 1 - April 12-18 - Web Development Introduction
-- [ ] [Lynda JavaScript Essential Training](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html) 
-- [ ] Read [Jon Duckett's HTML & CSS](https://www.amazon.com/dp/1118008189)
+- [X] [Lynda JavaScript Essential Training](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html) 
+- [X] Read [Jon Duckett's HTML & CSS](https://www.amazon.com/dp/1118008189)
 - [X] Work through [Free Code Camp](http://beta.freecodecamp.org/)
 
 ### Week 2 - April 19-25 - Beginner JavaScript Projects
 - [ ] Lighthouse Labs [JavaScript Essentials](https://lighthouse-labs.thinkific.com/courses/javascript/) 
 - [ ] [Udacity Responsive Web Design Fundamentals](https://classroom.udacity.com/courses/ud893)
-- [ ] Michael Hartl's [Learn Enough CSS & Layout...](https://www.learnenough.com/css-and-layout-tutorial)
+- [X] Michael Hartl's [Learn Enough CSS & Layout...](https://www.learnenough.com/css-and-layout-tutorial)
 - [ ] Read [Jon Duckett's HTML & CSS](https://www.amazon.com/dp/1118008189)
 - [ ] Work on [Exercism JavaScript](http://exercism.io/)
 
