@@ -16,7 +16,8 @@ This is my personalized 52-week schedule to gain expertise with front-end JavaSc
 - [ ] Work on [Exercism JavaScript](http://exercism.io/)
 
 ### Week 3 - April 26-May 2 - Enough JavaScript to be Dangerous
-- [ ] Michael Hartl's [Learn Enough JavaScript...](https://www.learnenough.com/javascript-tutorial) 
+- [ ] Michael Hartl's [Learn Enough JavaScript...](https://www.learnenough.com/javascript-tutorial)
+- [ ] Lynda [Responsive Images](https://www.lynda.com/CSS-tutorials/Responsive-Images/372539-2.html)
 - [ ] [Udacity Responsive Web Design Fundamentals](https://classroom.udacity.com/courses/ud893)
 - [ ] Michael Hartl's [Learn Enough CSS & Layout...](https://www.learnenough.com/css-and-layout-tutorial)
 - [ ] Read [Jon Duckett's JavaScript & jQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/)
