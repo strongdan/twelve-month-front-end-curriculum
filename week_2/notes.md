@@ -1,5 +1,6 @@
 ## Things remaining to do:
 - finish stretch goals for Lighthouse Labs assignment chat app by (1) Adding list of messages and (2) Deploying to Heroku
+- complete projects for Lynda JS Essentials course: (1) Analog Clock, (2) Typing Speed Tester and (3) Automated Responsive Images Markup
   
 ### List of Messages
 It would be nice to see the message history on the server anytime you join the chat room. Unfortunately, we don't keep/store a message history on the server at all.
