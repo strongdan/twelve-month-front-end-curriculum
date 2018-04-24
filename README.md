@@ -35,7 +35,7 @@ This is my personalized 52-week schedule to gain expertise with front-end JavaSc
 ### Week 5 - May 10-16 - Break Week
 
 ### Week 6 - May 17-23 - More JavaScript Projects
-- [ ] Start Restaurant Reviews App
+- [ ] Start Restaurant Reviews App (due June 12)
 - [ ] [Udacity Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 - [ ] [Khan Academy JavaScript](https://www.khanacademy.org/computing/computer-programming/programming)
 - [ ] Read [Jon Duckett's JavaScript & jQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/)
@@ -62,6 +62,7 @@ This is my personalized 52-week schedule to gain expertise with front-end JavaSc
 - [ ] Work on [Exercism JavaScript](http://exercism.io/)
 
 ### Week 10 - June 14-20 - Fetch API
+- [ ] Project 1 Due!
 - [ ] EdX [Asynchronous Programming with JS - Fetch API](https://courses.edx.org/courses/course-v1:Microsoft+DEV234x+1T2018a/course/)
 - [ ] Udacity [Asynchronous JavaScript Requests](https://www.udacity.com/course/asynchronous-javascript-requests--ud109)
 - [ ] Read [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do)
@@ -88,18 +89,21 @@ This is my personalized 52-week schedule to gain expertise with front-end JavaSc
 - [ ] Work on [Code Wars](https://www.codewars.com/)
 
 ### Week 14 - July 12-18 - Offline Web Apps Continued
+- [ ] Restaurant Reviews App, Part 2 (due August 11)
 - [ ] Odin Project [JavaScript Basics](https://www.theodinproject.com/courses/web-development-101)
 - [ ] Udacity [Offline Web Apps](https://www.udacity.com/course/offline-web-applications--ud899)
 - [ ] Read [Practical JavaScript](https://watchandcode.com/p/practical-javascript)
 - [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
 
 ### Week 15 - July 19-25 - Web Tooling and Automation
+- [ ] Restaurant Reviews App, Part 2
 - [ ] Viking Prep [JavaScript](https://www.vikingcodeschool.com/dashboard)
 - [ ] Udacity [Web Tooling and Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 - [ ] Read [Practical JavaScript](https://watchandcode.com/p/practical-javascript)
 - [ ] Work on [Exercism JavaScript](http://exercism.io/)
 
 ### Week 16 - July 26-August 1 - Web Tooling and Automation Continued
+- [ ] Restaurant Reviews App, Part 2
 - [ ] Viking Prep [JavaScript](https://www.vikingcodeschool.com/dashboard)
 - [ ] Udacity [Web Tooling and Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 - [ ] Read John Resig's [Secrets of a JavaScript Ninja](https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/)
@@ -115,21 +119,21 @@ This is my personalized 52-week schedule to gain expertise with front-end JavaSc
 - [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
 
 ### Week 17 - August 9-15 - jQuery
-- [ ] Restaurant Reviews App, Part 2
+- [ ] Restaurant Reviews App, Part 2 due August 11
 - [ ] Khan Academy [jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
 - [ ] Udacity [JavaScript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
 - [ ] Read John Resig's [Secrets of a JavaScript Ninja](https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/)
 - [ ] Work on [Exercism JavaScript](http://exercism.io/)
 
 ### Week 18 - August 16-22 - More jQuery
-- [ ] Restaurant Reviews App, Part 2
+- [ ] Restaurant Reviews App, Part 3
 - [ ] Khan Academy [jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
 - [ ] Udacity [JavaScript Testing](https://classroom.udacity.com/courses/ud015)
 - [ ] Read JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do)
 - [ ] Work on [Code Wars](https://www.codewars.com/)
 
 ### Week 19 - August 23-29 - Testing
-- [ ] Restaurant Reviews App, Part 2
+- [ ] Restaurant Reviews App, Part 3
 - [ ] Khan Academy [jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
 - [ ] Udacity [JavaScript Testing](https://classroom.udacity.com/courses/ud015)
 - [ ] Read JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do)
@@ -137,6 +141,7 @@ This is my personalized 52-week schedule to gain expertise with front-end JavaSc
 
 ## Month 6 - Object-Oriented JavaScript and JavaScript Design Patterns
 ### Week 20 - August 30-September 5 - Object-oriented JavaScript
+- [ ] Restaurant Reviews App, Part 3
 - [ ] Udacity [Networking for Web Devs](https://classroom.udacity.com/courses/ud256)
 - [ ] Udacity [Client-server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 - [ ] Udacity [Object-oriented JavaScript](https://classroom.udacity.com/courses/ud015)
@@ -144,18 +149,21 @@ This is my personalized 52-week schedule to gain expertise with front-end JavaSc
 - [ ] Work on [Exercism JavaScript](http://exercism.io/)
 
 ### Week 21 - September 6-12 - More Object-oriented JavaScript
+- [ ] Restaurant Reviews App, Part 3 due Sept 8
 - [ ] Udacity [Client-server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 - [ ] Udacity [Object-oriented JavaScript](https://classroom.udacity.com/courses/ud015)
 - [ ] Read [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
 - [ ] Work on [Code Wars](https://www.codewars.com/)
 
 ### Week 22 - September 13-19 - JavaScript Design Patterns
+- [ ] Work on unfinished projects
 - [ ] Udacity [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 - [ ] Udacity [JavaScript Design Patterns](https://classroom.udacity.com/courses/ud989)
 - [ ] Read [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
 - [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
 
 ### Week 23 - September 20-26 - Browser Rendering Optimization
+- [ ] Work on unfinished projects
 - [ ] Udacity [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 - [ ] Udacity [JavaScript Design Patterns](https://classroom.udacity.com/courses/ud989)
 - [ ] Read [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
@@ -163,28 +171,27 @@ This is my personalized 52-week schedule to gain expertise with front-end JavaSc
 
 ## Month 7 - Intermediate Project
 ### Week 24 - September 27-October 3 - Intermediate Project
-- [ ] Restaurant Reviews App, Part 3
+- [ ] Work on unfinished projects
 - [ ] Read [Programming JavaScript Apps](https://ericelliottjs.com/product/programming-javascript-applications-ebook/)
 - [ ] Work on [Code Wars](https://www.codewars.com/)
 
 ### Week 25 - October 4-10 - Intermediate Projects
-- [ ] Restaurant Reviews App, Part 3
+- [ ] Work on unfinished projects
 - [ ] Read [Programming JavaScript Apps](https://ericelliottjs.com/product/programming-javascript-applications-ebook/)
 - [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
 
 ### Week 26 - October 11-17 - Intermediate Project
-- [ ] Restaurant Reviews App, Part 3
+- [ ] Work on unfinished projects
 - [ ] Read [Programming JavaScript Apps](https://ericelliottjs.com/product/programming-javascript-applications-ebook/)
 - [ ] Work on [Exercism JavaScript](http://exercism.io/)
 
 ### Week 27 - October 18-24 - Intermediate Project Due on Oct 24!
-- [ ] Restaurant Reviews App, Part 3 Due
+- [ ] Work on unfinished projects
 - [ ] Read [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
 - [ ] Work on [Code Wars](https://www.codewars.com/)
 
 ## Month 8
 ### Week 28 - October 25-31 - Back to the Basics
 - [ ] Codecademy Build Front-End Web Applications from Scratch
-- [ ] Udacity []()
 - [ ] Read [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
 - [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
