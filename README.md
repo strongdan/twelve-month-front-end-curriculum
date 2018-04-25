@@ -31,7 +31,7 @@ This is my personalized 52-week schedule to gain expertise with front-end JavaSc
 - [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
 
 
-## Month 2 - Asynchronous JavaScript and jQuery
+## Month 2 - Asynchronous JavaScript
 ### Week 5 - May 10-16 - Break Week
 
 ### Week 6 - May 17-23 - More JavaScript Projects
@@ -110,7 +110,7 @@ This is my personalized 52-week schedule to gain expertise with front-end JavaSc
 - [ ] Work on [Code Wars](https://www.codewars.com/)
 
 
-## Month 5 - Project Work
+## Month 5 - Project Work and jQuery
 ### Week 16 - August 2-8 - JavaScript and the DOM
 - [ ] Restaurant Reviews App, Part 2
 - [ ] Khan Academy [jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
