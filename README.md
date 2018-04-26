@@ -21,14 +21,14 @@ This is my personalized 52-week schedule to gain expertise with front-end JavaSc
 - [ ] [Udacity Responsive Web Design Fundamentals](https://classroom.udacity.com/courses/ud893)
 - [ ] Michael Hartl's [Learn Enough CSS & Layout...](https://www.learnenough.com/css-and-layout-tutorial)
 - [ ] Read [Jon Duckett's JavaScript & jQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/)
-- [ ] Work on [Code Wars](https://www.codewars.com/)
+- [ ] Lighthouse Labs [21 Day Coding Challenge](https://coding-challenge.lighthouselabs.ca/) 
 
 ### Week 4 - May 3-9 - Enough JavaScript to be Dangerous, Part 2
 - [ ] Michael Hartl's [Learn Enough JavaScript...](https://www.learnenough.com/javascript-tutorial) 
 - [ ] [Udacity Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
 - [ ] [Udacity Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 - [ ] Read [Jon Duckett's JavaScript & jQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/)
-- [ ] Work through [Free Code Camp](http://beta.freecodecamp.org/)
+- [ ] Lighthouse Labs [21 Day Coding Challenge](https://coding-challenge.lighthouselabs.ca/) 
 
 
 ## Month 2 - Asynchronous JavaScript
@@ -39,7 +39,7 @@ This is my personalized 52-week schedule to gain expertise with front-end JavaSc
 - [ ] [Udacity Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 - [ ] [Khan Academy JavaScript](https://www.khanacademy.org/computing/computer-programming/programming)
 - [ ] Read [Jon Duckett's JavaScript & jQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/)
-- [ ] Work on [Exercism JavaScript](http://exercism.io/)
+- [ ] Lighthouse Labs [21 Day Coding Challenge](https://coding-challenge.lighthouselabs.ca/) 
 
 ### Week 7 - May 24-30 - Intro to Asynch
 - [ ] Restaurant Reviews App
